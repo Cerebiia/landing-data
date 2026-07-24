@@ -47,7 +47,3 @@ cd landing-data
 npm i
 npm run dev
 ```
-
-## Nota sobre GitHub
-
-El código está preparado para subir a GitHub pero requiere permisos de push en el repositorio `Cerebiia/landing-data.git`. El usuario actual (`Destroc922`) necesita ser colaborador o tener permisos de administración para completar el push.

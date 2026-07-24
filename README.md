@@ -2,6 +2,7 @@
 
 Plataforma web todo-en-uno para el cumplimiento de la Ley 1581 de 2012: recolección, validación, auditoría y comunicaciones masivas de datos personales.
 
+
 ## 🎨 Cambios Realizados en Refactorización UI/UX
 
 ### Página Principal (Cerebiia Data)
